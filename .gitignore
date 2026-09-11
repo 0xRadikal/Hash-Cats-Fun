@@ -1,0 +1,19 @@
+# secrets — never commit real keys
+wallet.env
+*.key
+New_Req.env
+wallet-test.env
+
+# runtime / logs
+watcher.log
+watcher_data.csv
+watcher_state.json
+*.log
+__pycache__/
+*.pyc
+
+# compiled binaries
+keccak_miner
+gpu/keccak_cuda
+gpu/verify_kernel
+gpu/verify_kernel_cpu

@@ -1,0 +1,31 @@
+{
+  "miner": "a842e3ab069562db379c35dd52c77ef214324004",
+  "prevWork_hex": "0000000000005ace04740d04660942fbd43dbbccb541d765f019ad2bd43adeed",
+  "anchorHash_hex": "a3c2eddce998e272db25e8e8dde73e8a7ad9cff2b5dca68c47b7a2806b52d825",
+  "tests": [
+    {
+      "nonce": 0,
+      "workHash_hex": "423c994685ec947d1f26f5a446b084dc69584941ec77d2178e0a8cd7d50ac8e2"
+    },
+    {
+      "nonce": 1,
+      "workHash_hex": "460e0a7f93bdbc6fd237b3cb3d59a32c3a4b8187923e79d72b6ed47170cd230e"
+    },
+    {
+      "nonce": 42,
+      "workHash_hex": "30fd634650fc58f6eaf40d22e62b639b85e9dee24ae31843e34c1a7ff1b854dc"
+    },
+    {
+      "nonce": 8422971,
+      "workHash_hex": "e13fa763d752af4fc1ff6dc9af38bfd2eb72f1f5235e841528859b7c1fb7ae42"
+    },
+    {
+      "nonce": 123456789,
+      "workHash_hex": "718e08bf3309b81f4768025e67f992050abcee3c92f57b8d4044a060aad5b7b8"
+    },
+    {
+      "nonce": 1000000000000000,
+      "workHash_hex": "8a80e3f7bc9f20de055ce0871a1f73a6e2de49198750a1214ed04e25a00d3acc"
+    }
+  ]
+}
